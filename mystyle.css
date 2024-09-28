@@ -12,6 +12,8 @@ body {
 nav {
     padding: 1rem;
     background-color: rgb(74, 116, 253);
+    float: top;
+    height: fit-content;
 }
 /* This for background of navigator function. */
 
@@ -52,11 +54,12 @@ h1 {
 
 h2 {
     font-size: 120px;
-    font-family: 'Brush Script MT';
+    font-family: 'RSU';
     text-align: center;
-    color: blue;
+    color: rgb(255, 255, 255);
     text-shadow: 2px 2px 4px #000000;
     margin: 0%;
+    padding-bottom: 25px;
 }
 /* This for adjust text. */
 
@@ -103,4 +106,43 @@ h3 {
     font-size: 24px;
     color: white;
     font-family: 'Nerko one';
+}
+
+.pic1 {
+    height: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.mypic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%;
+    height: 1100px;
+}
+
+.sociali{
+    height: 3%;
+    width: 3%;
+}
+
+.dsci {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 450px;
+    padding: 0%;
+}
+
+.dengin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 450px;
+    padding: 0%;
 }
