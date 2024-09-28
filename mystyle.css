@@ -11,7 +11,7 @@ body {
 
 nav {
     padding: 1rem;
-    background-color: rgb(92, 126, 240);
+    background-color: rgb(106, 139, 247);
 }
 /* This for background of navigator function. */
 
@@ -72,6 +72,8 @@ h3 {
     font-size: 36px;
     color: white;
     font-family: 'Nerko one';
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
 }
 /* This for adjust text. */
 
