@@ -94,18 +94,28 @@ h3 {
     font-size: 50px;
     color: white;
     font-family: 'Nerko one';
+    margin: 2px;
 }
 
 .dataluv {
     font-size: 24px;
     color: white;
     font-family: 'Nerko one';
+    padding: 5px;
+    margin: 2rem;
+}
+
+dataluv.detail{
+    margin: 0;
+    padding: 0px;
 }
 
 .wantings {
     font-size: 24px;
     color: white;
     font-family: 'Nerko one';
+    padding: 5px;
+    margin: 2rem;
 }
 
 .pic1 {
@@ -114,6 +124,8 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     width: 70%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 .mypic {
@@ -136,6 +148,8 @@ h3 {
     width: 35%;
     height: 450px;
     padding: 0%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 .dengin {
@@ -145,4 +159,6 @@ h3 {
     width: 35%;
     height: 450px;
     padding: 0%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
