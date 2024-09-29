@@ -1,6 +1,6 @@
 * {
     padding: 0;
-    box-sizing: content-box;
+    box-sizing: boarder-box;
 }
 /* This for determine content for all parts. */
 
@@ -18,9 +18,9 @@ nav {
 /* This for background of navigator function. */
 
 .nav-con {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    padding: 2% 4%;
+    position: sticky;
+    top: 0;
 }
 /* This for background of navigator function. */
 
@@ -161,4 +161,8 @@ dataluv.detail{
     padding: 0%;
     margin-bottom: 2rem;
     margin-top: 2rem;
+}
+
+.stor {
+    text-indent: 2cm;
 }
